@@ -1,3 +1,11 @@
 body {
-    background-color: rgb(20, 161, 161);
+    background-color: rgb(206, 182, 104);
 }
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Arial", sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    color: #ffffff;
+  }
